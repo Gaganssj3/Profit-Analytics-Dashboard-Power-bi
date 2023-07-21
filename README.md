@@ -1,4 +1,4 @@
-# Sales-Analytics-Dashboard-Power-bi
+# Profit-Analytics-Dashboard-Power-bi
 Dynamic and Interactive Dashboard
 Every country or company needs a team or group of people who can calculate or manage the amount of sales they do and how much profit or loss that particular transaction does.
 Key insights of this project are:-
